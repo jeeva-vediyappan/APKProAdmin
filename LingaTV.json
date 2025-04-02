@@ -1,0 +1,15 @@
+{
+    "greeting": "Welcome",
+    "appname": "Linga TV",
+    "playbutton": true,
+    "adds": true,
+    "phone": "7604896603",
+    "phone2": "9865029522",
+    "Mail": "lingahd03@gmail.com",
+    "adress": true,
+    "ADR_name": "Linga TV HD",
+    "ADR_addr": "Uthangarai(TK), Krishnagiri(DT) \n PinCode- 635307",
+    "instagram": "https://www.instagram.com/linga_hd?igsh=MThwOW4xM2xsMzI4Yg==",
+    "youtube": "https://youtube.com/@ravibabu-linga?si=e1k740MgT2ONDKdp",
+    "live_url": "rtmp://rcserver.in:1937/lingatv/lingatv"
+}
