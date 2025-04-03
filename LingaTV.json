@@ -2,7 +2,7 @@
     "isabletoplay": true,
     "isRunnable": true,
 
-    "notes":true,
+    "notes":false,
     "notes_message":"Payment Not yet Receved",
 
     "live_url": "rtmp://rcserver.in:1937/lingatv/lingatv"
